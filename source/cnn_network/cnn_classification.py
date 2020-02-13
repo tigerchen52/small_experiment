@@ -1,4 +1,3 @@
-import keras.backend as K
 from keras.models import Model
 from keras.preprocessing import sequence
 from keras.layers import Input
